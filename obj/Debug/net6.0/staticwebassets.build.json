@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fa2qbMC8S31bfu5aO/WefUvfb6v3OOHgzw7uSDQOGAQ=",
+  "Source": "DotNet_WebAPI_JWT",
+  "BasePath": "_content/DotNet_WebAPI_JWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
